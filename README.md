@@ -2,9 +2,34 @@
 
 Spotly is an iOS application developed using SwiftUI that helps travelers explore tourist destinations through sentiment analysis and topic modeling. The app uses **BeautifulSoup** for web scraping to gather reviews from **TripAdvisor**, analyzes them with **BERTurk** (a pre-trained Turkish BERT model), and applies **Latent Dirichlet Allocation (LDA)** for topic modeling. The results, once scraped and analyzed, are stored as static data to be used for making recommendations and providing insights to users. **Firebase** is used for managing user accounts and storing preferences securely.
 
-## 🎥 Demo Video
+## 🎥 Demo Screenshots
 
-You can watch a demo of the application here: [Spotly Demo Video](link-to-your-video)
+You can view the demo screenshots of the application below:
+
+### **Splash Screen, Sign In, Sign Up, and Onboarding (Common Color)**
+
+| **Screen**             | **Image**                                            |
+|------------------------|------------------------------------------------------|
+| **Splash Screen**       | ![Splash Screen](screens/splash.png)   |
+| **Sign In**             | ![Sign In](screens/signin.png)               |
+| **Sign Up**             | ![Sign Up](screens/signup.png)               |
+| **Onboarding Screen 1** | ![Onboarding Screen 1](screens/onboarding) |
+| **Onboarding Screen 2** | ![Onboarding Screen 2](screens/onboarding2) |
+| **Onboarding Screen 3** | ![Onboarding Screen 3](screens/onboarding3) |
+
+### **Map View**
+
+| **Mode**             | **Light Mode**                                      | **Dark Mode**                                      |
+|----------------------|-----------------------------------------------------|----------------------------------------------------|
+| **Map View**          | ![Map View Light Mode](screens/maplight.png)  | ![Map View Dark Mode](screens/mapdark.png)   |
+
+### **Detail View**
+
+| **Mode**             | **Light Mode**                                      | **Dark Mode**                                      |
+|----------------------|-----------------------------------------------------|----------------------------------------------------|
+| **Detail View**       | ![Detail View Light Mode 1](screens/detaillight1.png) ![Detail View Light Mode 2](screens/detaillight2.png)    | ![Detail View Dark Mode 1](screens/detaildark1.png) ![Detail View Dark Mode 2](screens/detaildark2.png) |
+
+                                             
 
 ## 📱 Features
 
@@ -66,4 +91,4 @@ To install and run the project locally, follow these steps:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/baranzeyn/Spotly.git
+git clone https://github.com/your-username/Spotly.git

@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		44E5759F2D1EAEF400FD9ECA /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 44E5759E2D1EAEF400FD9ECA /* FirebaseAuth */; };
+		44E575A12D1EAEF400FD9ECA /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 44E575A02D1EAEF400FD9ECA /* FirebaseFirestore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
