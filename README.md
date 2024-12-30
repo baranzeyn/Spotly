@@ -10,26 +10,24 @@ You can view the demo screenshots of the application below:
 
 | **Screen**             | **Image**                                            |
 |------------------------|------------------------------------------------------|
-| **Splash Screen**       | ![Splash Screen](screens/splash.png)   |
-| **Sign In**             | ![Sign In](screens/signin.png)               |
-| **Sign Up**             | ![Sign Up](screens/signup.png)               |
-| **Onboarding Screen 1** | ![Onboarding Screen 1](screens/onboarding) |
-| **Onboarding Screen 2** | ![Onboarding Screen 2](screens/onboarding2) |
-| **Onboarding Screen 3** | ![Onboarding Screen 3](screens/onboarding3) |
+| **Splash Screen**       | <img src="screens/splash.png" width="300" />         |
+| **Sign In**             | <img src="screens/signin.png" width="300" />         |
+| **Sign Up**             | <img src="screens/signup.png" width="300" />         |
+| **Onboarding Screen 1** | <img src="screens/onboarding.png" width="300" />     |
+| **Onboarding Screen 2** | <img src="screens/onboarding2.png" width="300" />    |
+| **Onboarding Screen 3** | <img src="screens/onboarding3.png" width="300" />    |
 
 ### **Map View**
 
 | **Mode**             | **Light Mode**                                      | **Dark Mode**                                      |
 |----------------------|-----------------------------------------------------|----------------------------------------------------|
-| **Map View**          | ![Map View Light Mode](screens/maplight.png)  | ![Map View Dark Mode](screens/mapdark.png)   |
+| **Map View**          | <img src="screens/maplight.png" width="300" />      | <img src="screens/mapdark.png" width="300" />      |
 
 ### **Detail View**
 
 | **Mode**             | **Light Mode**                                      | **Dark Mode**                                      |
 |----------------------|-----------------------------------------------------|----------------------------------------------------|
-| **Detail View**       | ![Detail View Light Mode 1](screens/detaillight1.png) ![Detail View Light Mode 2](screens/detaillight2.png)    | ![Detail View Dark Mode 1](screens/detaildark1.png) ![Detail View Dark Mode 2](screens/detaildark2.png) |
-
-                                             
+| **Detail View**       | <img src="screens/detaillight1.png" width="300" /> <img src="screens/detaillight2.png" width="300" />    | <img src="screens/detaildark1.png" width="300" /> <img src="screens/detaildark2.png" width="300" /> |
 
 ## 📱 Features
 
@@ -91,4 +89,4 @@ To install and run the project locally, follow these steps:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Spotly.git
+git clone https://github.com/baranzeyn/Spotly.git
